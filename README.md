@@ -1,2 +1,2 @@
-# mnist-decoder
-Python3 MNIST Dataset decoder
+# MNIST Dataset Decoder
+Functions for decoding MNIST Dataset. 
