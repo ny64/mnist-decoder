@@ -1,5 +1,5 @@
 # MNIST Dataset Decoder
-Functions for decoding MNIST Dataset. 
+Functions for decoding [MNIST Dataset](http://yann.lecun.com/exdb/mnist/). 
 
 ### Usage
 ```python
